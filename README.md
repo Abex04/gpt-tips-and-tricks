@@ -20,6 +20,7 @@ The goal is simple: try useful techniques, document the results, and share what 
 | [`prompts/debugging-prompts.md`](prompts/debugging-prompts.md) | Prompts for finding bugs and decoding error messages |
 | [`prompts/study-prompts.md`](prompts/study-prompts.md) | Prompts for learning new topics and building study plans |
 | [`prompts/project-prompts.md`](prompts/project-prompts.md) | Prompts for generating project ideas and planning them out |
+| [`prompts/documentation-prompts.md`](prompts/documentation-prompts.md) | Prompts for READMEs, commit messages, code comments, and docs |
 
 ## 🚀 Example
 
