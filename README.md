@@ -43,6 +43,12 @@ Code:
 
 Just copy a prompt, fill in the `[BRACKETS]`, and paste it into ChatGPT or any GPT-based tool.
 
+## 🧪 Real Examples
+
+See actual GPT outputs for these prompts in the [`examples/`](examples/) folder:
+
+- [Explain an Error Message](examples/explain-error-message.md)
+
 ## 🤝 Contributing
 
 Got a prompt that works well for you? Contributions are welcome!
