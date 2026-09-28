@@ -49,6 +49,7 @@ See actual GPT outputs for these prompts in the [`examples/`](examples/) folder:
 
 - [Explain an Error Message](examples/explain-error-message.md)
 - [Explain Code Like a Beginner](examples/explain-code-like-a-beginner.md)
+- [Create a Study Plan](examples/create-a-study-plan.md)
 
 ## 🤝 Contributing
 
