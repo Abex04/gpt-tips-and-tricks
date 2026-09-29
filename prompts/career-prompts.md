@@ -78,3 +78,85 @@ Please:
 3. Suggest what I should be ready to explain about my technical choices
 4. Point out any weak spots in the project that I should be prepared to discuss honestly
 ```
+
+## 6. Write a Cold Outreach / Networking Message
+
+```text
+Help me write a short, genuine outreach message to a [PERSON'S ROLE, e.g. software engineer, hiring manager] at [COMPANY].
+
+My goal: [e.g. ask for a referral, learn about their role, request a short chat]
+About me: [YOUR BACKGROUND IN 1-2 SENTENCES]
+
+Please:
+1. Keep it short (under 100 words)
+2. Make it sound genuine, not like a template
+3. Include a clear, low-pressure ask
+4. Suggest a subject line if this is an email
+```
+
+## 7. Write a Cover Letter
+
+```text
+Write a cover letter for this job application.
+
+Job title: [JOB TITLE]
+Company: [COMPANY]
+Job description: [PASTE KEY PARTS OF THE JOB DESCRIPTION]
+My background: [YOUR RELEVANT EXPERIENCE/SKILLS]
+
+Please:
+1. Keep it under 300 words
+2. Connect my background directly to what the job description asks for
+3. Avoid generic phrases like "I am a hard worker" — be specific instead
+4. End with a clear, confident closing line
+
+Do not invent experience or skills I haven't mentioned.
+```
+
+## 8. Prepare to Negotiate a Job Offer
+
+```text
+Help me prepare to negotiate this job offer.
+
+Role: [JOB TITLE]
+Offer details: [SALARY, BENEFITS, ETC. THAT WERE OFFERED]
+My research on market rate: [WHAT YOU'VE FOUND, IF ANYTHING]
+What matters most to me: [e.g. higher salary, remote work, more vacation]
+
+Please:
+1. Tell me if the offer seems reasonable based on what I've shared
+2. Suggest what I could reasonably ask for
+3. Give me a script for how to raise it professionally
+4. Warn me about anything that could come across as pushy or risky
+```
+
+## 9. Improve My LinkedIn Profile
+
+```text
+Review and improve my LinkedIn "About" section.
+
+Target role: [JOB TITLE OR FIELD]
+
+Please:
+1. Point out anything vague, generic, or overly formal
+2. Rewrite it to sound clear, confident, and specific
+3. Make sure it highlights my actual skills and experience, not buzzwords
+4. Keep it under 2,000 characters
+
+My current About section:
+[PASTE YOUR CURRENT TEXT HERE]
+```
+
+## 10. Practice a Coding Interview Question
+
+```text
+Act as a coding interviewer. Give me one coding interview question appropriate for a [JUNIOR/MID/SENIOR] [ROLE, e.g. frontend, backend] position.
+
+After I respond with my solution:
+1. Tell me if it's correct
+2. Point out the time and space complexity
+3. Ask a follow-up question or suggest an edge case I may have missed
+4. Only give me the ideal solution if I ask for it or get stuck
+
+Start with the first question. Do not give hints unless I ask.
+```
