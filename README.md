@@ -23,6 +23,7 @@ The goal is simple: try useful techniques, document the results, and share what 
 | [`prompts/documentation-prompts.md`](prompts/documentation-prompts.md) | Prompts for READMEs, commit messages, code comments, and docs |
 | [`prompts/career-prompts.md`](prompts/career-prompts.md) | Prompts for mock interviews, resumes, cover letters, outreach, negotiation, and coding interview prep |
 | [`prompts/dev-tools-prompts.md`](prompts/dev-tools-prompts.md) | Prompts for Git, terminal commands, SQL, regex, and environment setup |
+| [`prompts/ai-agents-prompts.md`](prompts/ai-agents-prompts.md) | Prompts for using AI agents, designing your own, and working with coding agents |
 
 ## 🚀 Example
 
